@@ -2,7 +2,7 @@
 """
 Created by: Evan Beaudoin.
 Created on: March 2023
-This program calculates the cost of a pizza.
+This program moves a servo
 """
 
 import time
